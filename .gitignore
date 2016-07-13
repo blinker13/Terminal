@@ -3,5 +3,5 @@
 xcuserdata
 *.xccheckout
 
-/Packages
-/.build
+**/Packages
+**/.build
